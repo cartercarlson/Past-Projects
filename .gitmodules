@@ -1,0 +1,6 @@
+[submodule "ratings-reviews"]
+	path = ratings-reviews
+	url = https://github.com/cartercarlson/Web-Scrape
+[submodule "movie-analysis"]
+	path = movie-analysis
+	url = https://github.com/cartercarlson/MovieLens-Analysis
