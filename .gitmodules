@@ -7,3 +7,6 @@
 [submodule "restaurant-web-app"]
 	path = restaurant-web-app
 	url = https://github.com/cartercarlson/catalog-project
+[submodule "crypto-simulations"]
+	path = crypto-simulations
+	url = https://github.com/cartercarlson/crypto-simulations
