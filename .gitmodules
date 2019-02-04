@@ -4,3 +4,6 @@
 [submodule "movie-analysis"]
 	path = movie-analysis
 	url = https://github.com/cartercarlson/MovieLens-Analysis
+[submodule "restaurant-web-app"]
+	path = restaurant-web-app
+	url = https://github.com/cartercarlson/catalog-project
